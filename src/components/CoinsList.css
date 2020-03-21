@@ -1,0 +1,8 @@
+.Coins-list {
+	display: flex;
+	flex-direction: row;
+}
+
+.Coins-list-coin {
+	margin: 5px;
+}

@@ -1,0 +1,15 @@
+.Products {
+	display: flex;
+	flex-direction: row;
+	margin: 5px;
+}
+
+.Products-list-product {
+	display: flex;
+	flex-direction: column;
+	margin: 5px;
+}
+
+.Products-list-product.selected {
+	color: red;
+}
